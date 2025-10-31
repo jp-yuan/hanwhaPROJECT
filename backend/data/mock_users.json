@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "mock-user",
+    "email": "student@example.com",
+    "name": "Suzy",
+    "test_type": "ABC Certification",
+    "target_score": 1600,
+    "baseline_score": 1200,
+    "current_level": "intermediate",
+    "study_hours_per_week": 10,
+    "test_date": "2025-02-01",
+    "preferences": {
+      "preferred_study_time": "evening",
+      "notification_enabled": true
+    }
+  }
+]
+

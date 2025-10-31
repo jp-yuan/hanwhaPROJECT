@@ -1,0 +1,263 @@
+[
+  {
+    "question_id": "sat-math-001",
+    "content": "If 3x + 7 = 22, what is the value of x?",
+    "options": {"A": "3", "B": "5", "C": "7", "D": "15"},
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "topic": "algebra",
+    "subtopic": "linear_equations",
+    "test_type": "SAT",
+    "section": "math",
+    "explanation": {
+      "text": "Subtract 7 from both sides: 3x = 15. Then divide by 3: x = 5.",
+      "steps": ["Start with: 3x + 7 = 22", "Subtract 7: 3x = 15", "Divide by 3: x = 5"]
+    },
+    "average_time": 90,
+    "accuracy_rate": 0.75
+  },
+  {
+    "question_id": "sat-math-002",
+    "content": "A circle has a radius of 5. What is its area? (Use π ≈ 3.14)",
+    "options": {"A": "15.7", "B": "31.4", "C": "78.5", "D": "157"},
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "topic": "geometry",
+    "subtopic": "circles",
+    "test_type": "SAT",
+    "section": "math",
+    "explanation": {
+      "text": "The area of a circle is πr². With r = 5, Area = π(5²) = 3.14 × 25 = 78.5",
+      "steps": ["Formula: A = πr²", "Substitute: A = π(5²)", "Calculate: A = 3.14 × 25 = 78.5"]
+    },
+    "average_time": 120,
+    "accuracy_rate": 0.65
+  },
+  {
+    "question_id": "sat-math-003",
+    "content": "If f(x) = 2x² - 3x + 1, what is f(3)?",
+    "options": {"A": "8", "B": "10", "C": "12", "D": "14"},
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "topic": "algebra",
+    "subtopic": "functions",
+    "test_type": "SAT",
+    "section": "math",
+    "explanation": {
+      "text": "Substitute x = 3: f(3) = 2(3²) - 3(3) + 1 = 18 - 9 + 1 = 10",
+      "steps": ["f(3) = 2(3²) - 3(3) + 1", "= 2(9) - 9 + 1", "= 18 - 9 + 1 = 10"]
+    },
+    "average_time": 150,
+    "accuracy_rate": 0.58
+  },
+  {
+    "question_id": "sat-math-004",
+    "content": "In a right triangle, if one leg is 6 and the other is 8, what is the length of the hypotenuse?",
+    "options": {"A": "10", "B": "12", "C": "14", "D": "100"},
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "topic": "geometry",
+    "subtopic": "pythagorean_theorem",
+    "test_type": "SAT",
+    "section": "math",
+    "explanation": {
+      "text": "Use the Pythagorean theorem: a² + b² = c². So 6² + 8² = c², which gives 36 + 64 = 100, so c = 10.",
+      "steps": ["Use a² + b² = c²", "6² + 8² = c²", "36 + 64 = 100", "c = √100 = 10"]
+    },
+    "average_time": 100,
+    "accuracy_rate": 0.80
+  },
+  {
+    "question_id": "sat-math-005",
+    "content": "What is 25% of 160?",
+    "options": {"A": "30", "B": "40", "C": "50", "D": "60"},
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "topic": "arithmetic",
+    "subtopic": "percentages",
+    "test_type": "SAT",
+    "section": "math",
+    "explanation": {
+      "text": "25% = 0.25, so 0.25 × 160 = 40",
+      "steps": ["Convert 25% to decimal: 0.25", "Multiply: 0.25 × 160 = 40"]
+    },
+    "average_time": 60,
+    "accuracy_rate": 0.85
+  },
+  {
+    "question_id": "sat-math-006",
+    "content": "Solve for y: 2y + 5 = 3y - 7",
+    "options": {"A": "2", "B": "12", "C": "-12", "D": "-2"},
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "topic": "algebra",
+    "subtopic": "equations",
+    "test_type": "SAT",
+    "section": "math",
+    "explanation": {
+      "text": "Rearrange: 2y - 3y = -7 - 5, which gives -y = -12, so y = 12",
+      "steps": ["2y + 5 = 3y - 7", "2y - 3y = -7 - 5", "-y = -12", "y = 12"]
+    },
+    "average_time": 110,
+    "accuracy_rate": 0.62
+  },
+  {
+    "question_id": "sat-math-007",
+    "content": "What is the slope of a line passing through points (2, 3) and (6, 11)?",
+    "options": {"A": "1", "B": "2", "C": "3", "D": "4"},
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "topic": "algebra",
+    "subtopic": "slope",
+    "test_type": "SAT",
+    "section": "math",
+    "explanation": {
+      "text": "Slope = (y₂ - y₁)/(x₂ - x₁) = (11 - 3)/(6 - 2) = 8/4 = 2",
+      "steps": ["Formula: m = (y₂ - y₁)/(x₂ - x₁)", "m = (11 - 3)/(6 - 2)", "m = 8/4 = 2"]
+    },
+    "average_time": 130,
+    "accuracy_rate": 0.68
+  },
+  {
+    "question_id": "sat-reading-001",
+    "content": "Which word best describes the author's tone in describing the economic policy?",
+    "options": {"A": "Optimistic", "B": "Critical", "C": "Neutral", "D": "Sarcastic"},
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "topic": "reading_comprehension",
+    "subtopic": "tone",
+    "test_type": "SAT",
+    "section": "reading",
+    "explanation": {
+      "text": "The author uses phrases like 'unfortunately' and 'fails to address' which indicate a critical tone.",
+      "steps": ["Identify emotional language", "Note critical phrases", "Eliminate other options"]
+    },
+    "average_time": 90,
+    "accuracy_rate": 0.68
+  },
+  {
+    "question_id": "sat-reading-002",
+    "content": "The main purpose of the passage is to:",
+    "options": {
+      "A": "Entertain readers with a story",
+      "B": "Persuade readers to take action",
+      "C": "Inform readers about a topic",
+      "D": "Describe a personal experience"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "topic": "reading_comprehension",
+    "subtopic": "main_idea",
+    "test_type": "SAT",
+    "section": "reading",
+    "explanation": {
+      "text": "The passage presents factual information without personal narrative or persuasive language.",
+      "steps": ["Identify passage structure", "Look for factual vs persuasive language", "Determine primary purpose"]
+    },
+    "average_time": 80,
+    "accuracy_rate": 0.72
+  },
+  {
+    "question_id": "sat-reading-003",
+    "content": "As used in line 15, 'novel' most nearly means:",
+    "options": {"A": "Book", "B": "New", "C": "Interesting", "D": "Fiction"},
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "topic": "vocabulary",
+    "subtopic": "context_clues",
+    "test_type": "SAT",
+    "section": "reading",
+    "explanation": {
+      "text": "In context, 'novel' means new or original, not the literary form.",
+      "steps": ["Check context of usage", "Consider multiple meanings", "Select contextually appropriate meaning"]
+    },
+    "average_time": 70,
+    "accuracy_rate": 0.64
+  },
+  {
+    "question_id": "gre-verbal-001",
+    "content": "UBIQUITOUS:",
+    "options": {"A": "Rare", "B": "Omnipresent", "C": "Ancient", "D": "Mysterious"},
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "topic": "vocabulary",
+    "subtopic": "synonyms",
+    "test_type": "GRE",
+    "section": "verbal",
+    "explanation": {
+      "text": "Ubiquitous means present everywhere, which is synonymous with omnipresent.",
+      "steps": ["Define ubiquitous: everywhere", "Match with omnipresent"]
+    },
+    "average_time": 45,
+    "accuracy_rate": 0.60
+  },
+  {
+    "question_id": "gre-verbal-002",
+    "content": "EPHEMERAL:",
+    "options": {"A": "Eternal", "B": "Temporary", "C": "Beautiful", "D": "Expensive"},
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "topic": "vocabulary",
+    "subtopic": "synonyms",
+    "test_type": "GRE",
+    "section": "verbal",
+    "explanation": {
+      "text": "Ephemeral means lasting for a very short time, synonymous with temporary.",
+      "steps": ["Define ephemeral: short-lived", "Match with temporary"]
+    },
+    "average_time": 50,
+    "accuracy_rate": 0.55
+  },
+  {
+    "question_id": "gre-quant-001",
+    "content": "If x + y = 10 and x - y = 4, what is the value of x?",
+    "options": {"A": "3", "B": "6", "C": "7", "D": "14"},
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "topic": "algebra",
+    "subtopic": "systems_of_equations",
+    "test_type": "GRE",
+    "section": "quantitative",
+    "explanation": {
+      "text": "Add the equations: (x + y) + (x - y) = 10 + 4, so 2x = 14, thus x = 7.",
+      "steps": ["Add both equations", "2x = 14", "x = 7"]
+    },
+    "average_time": 120,
+    "accuracy_rate": 0.65
+  },
+  {
+    "question_id": "gre-quant-002",
+    "content": "What is the probability of rolling a sum of 7 with two fair dice?",
+    "options": {"A": "1/6", "B": "1/12", "C": "1/36", "D": "5/36"},
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "topic": "probability",
+    "subtopic": "basic_probability",
+    "test_type": "GRE",
+    "section": "quantitative",
+    "explanation": {
+      "text": "There are 6 ways to get a sum of 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) out of 36 total outcomes. 6/36 = 1/6",
+      "steps": ["Count favorable outcomes: 6", "Total outcomes: 36", "Probability = 6/36 = 1/6"]
+    },
+    "average_time": 140,
+    "accuracy_rate": 0.58
+  },
+  {
+    "question_id": "gre-quant-003",
+    "content": "If 3^x = 81, what is x?",
+    "options": {"A": "2", "B": "3", "C": "4", "D": "5"},
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "topic": "algebra",
+    "subtopic": "exponents",
+    "test_type": "GRE",
+    "section": "quantitative",
+    "explanation": {
+      "text": "3^4 = 81, so x = 4",
+      "steps": ["Recognize 81 = 3^4", "Therefore x = 4"]
+    },
+    "average_time": 60,
+    "accuracy_rate": 0.78
+  }
+]
+
